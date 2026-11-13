@@ -41,7 +41,7 @@
 
 ### 🚀 Products I've built
 
-Most of my code lives in private company repositories, so these link to the live products.
+Most of my code lives in private company repositories, so these link to the live products
 
 | Product | What I built | Stack |
 |---|---|---|
