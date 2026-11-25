@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://thiennguyen.cloud"><img src="https://img.shields.io/badge/Website-thiennguyen.ca.pro.vn-0B2545?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://thiennguyen.cloud"><img src="https://img.shields.io/badge/Website-thiennguyen.cloud-0B2545?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thiennm96"><img src="https://img.shields.io/badge/LinkedIn-thiennm96-0A66C2?style=flat-square" /></a>
 </p>
 
